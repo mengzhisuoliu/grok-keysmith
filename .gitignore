@@ -34,3 +34,4 @@ gui/src-tauri/target/
 gui/src-tauri/gen/
 gui/src-tauri/binaries/grok-keysmith-cli-*
 work/gui-screenshots/
+tools/.readme-render/
