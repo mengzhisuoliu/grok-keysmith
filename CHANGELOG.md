@@ -6,6 +6,7 @@ follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+- README 改成产品说明首页（hero、使用方式、效果三张图）。默认提示词同步更新，嵌入字节与 SHA-256 一并重算。
 ## [0.6.0] - 2026-09-09
 
 Bundled contract v0.6.0 (SHA-256 `24ee9ec08f5ca73bc2fb780ca3e770bd71ba8daf83e5961b3c56b72d9aa241cb`, 18597 bytes). Routing-aware contract sourced from a same-day methodology review of the leaked xAI system-prompt corpus (asgeirtj/system_prompts_leaks — grok-4-with-new-safety-instructions, grok-4.5, grok-4.6, grok-build).
