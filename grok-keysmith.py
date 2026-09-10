@@ -45,7 +45,7 @@ from pathlib import Path
 # Version and bundled prompt
 # ---------------------------------------------------------------------------
 
-VERSION = "0.6.0"
+VERSION = "0.6.1"
 TOOL_NAME = "grok-keysmith"
 BUNDLED_PROMPT_SHA256 = "3c669118d67690856f3ac11cd0f2beb687aa6e718dc76ed3f54c0751e01e48c9"
 
